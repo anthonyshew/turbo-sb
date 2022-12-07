@@ -1,4 +1,4 @@
-interface Props {
+export interface Props {
   primary?: boolean;
   size?: "small" | "large";
   label?: string;
